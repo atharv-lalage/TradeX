@@ -85,4 +85,4 @@ npm start
 
 ## License
 
-This project is licensed under the MIT License.
+This project is for academic/demo purposes.
